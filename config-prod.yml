@@ -1,0 +1,2 @@
+config:
+  info: 'this is prod, version = 1'
